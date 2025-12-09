@@ -47,5 +47,13 @@
         "password": "Sohan25",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5b7c06df901a7907",
+        "username": "AhmedZihad26",
+        "password": "AhmedZihad26",
+        "expirydate": "15-03-2026",
+        "Allowoffline": false
     }
+
 ]
