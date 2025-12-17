@@ -75,5 +75,12 @@
         "password": "Serif29",
         "expirydate": "20-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b2019de917ce44c9",
+        "username": "Sogor30",
+        "password": "Sogor30",
+        "expirydate": "20-12-2025",
+        "Allowoffline": false
     }
 ]
