@@ -82,5 +82,12 @@
         "password": "Sogor30",
         "expirydate": "20-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "80385ea09a7f7b1b",
+        "username": "Emon31",
+        "password": "Emon31",
+        "expirydate": "20-01-2026",
+        "Allowoffline": false
     }
 ]
