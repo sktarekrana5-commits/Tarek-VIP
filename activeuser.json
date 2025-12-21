@@ -96,5 +96,12 @@
         "password": "TahazzatHossain",
         "expirydate": "20-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "feb137c7b30ee61b",
+        "username": "Tahazzat32",
+        "password": "Tahazzat32",
+        "expirydate": "20-02-2026",
+        "Allowoffline": false
     }
 ]
