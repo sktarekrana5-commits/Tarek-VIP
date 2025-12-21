@@ -89,5 +89,12 @@
         "password": "Emon31",
         "expirydate": "20-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "feb137c7b30ee61b",
+        "username": "TahazzatHossain",
+        "password": "TahazzatHossain",
+        "expirydate": "20-02-2026",
+        "Allowoffline": false
     }
 ]
