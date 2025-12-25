@@ -117,5 +117,12 @@
         "password": "Romy35",
         "expirydate": "15-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2d7a6012cf028758",
+        "username": "Rabbi36",
+        "password": "Rabbi36",
+        "expirydate": "26-12-2025",
+        "Allowoffline": false
     }
 ]
