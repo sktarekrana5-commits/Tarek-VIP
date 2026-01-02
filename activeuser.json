@@ -145,5 +145,12 @@
         "password": "Biplob50",
         "expirydate": "15-03-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9388f37bb754395a",
+        "username": "SSS51",
+        "password": "SSS51",
+        "expirydate": "03-01-2026",
+        "Allowoffline": false
     }
 ]
