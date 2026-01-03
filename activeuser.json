@@ -159,5 +159,12 @@
         "password": "Muktadul52",
         "expirydate": "30-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "eabdd9ae0d79a94d",
+        "username": "Tarek55",
+        "password": "Tarek55",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
     }
 ]
