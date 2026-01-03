@@ -173,5 +173,12 @@
         "password": "Najmul60",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4218a0bb734517e7",
+        "username": "Sourov60",
+        "password": "Sourov60",
+        "expirydate": "1-02-2026",
+        "Allowoffline": false
     }
 ]
