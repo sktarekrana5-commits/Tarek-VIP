@@ -180,5 +180,12 @@
         "password": "Sourov60",
         "expirydate": "1-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2a29cc546a7f29fd",
+        "username": "Johir61",
+        "password": "Johir61",
+        "expirydate": "15-03-2026",
+        "Allowoffline": false
     }
 ]
