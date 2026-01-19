@@ -189,9 +189,9 @@
         "Allowoffline": false
     },
     {
-        "device_id": "d5624c84a572aab2",
-        "username": "Taniya70",
-        "password": "Taniya70",
+        "device_id": "*66",
+        "username": "T0",
+        "password": "Ta",
         "expirydate": "15-06-2027",
         "Allowoffline": false
     },
@@ -199,6 +199,13 @@
         "device_id": "8e2b1721128207dd",
         "username": "Fahim72",
         "password": "Fahim72",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "d5624c84a572aab2",
+        "username": "Tania120",
+        "password": "0178",
         "expirydate": "15-06-2026",
         "Allowoffline": false
     }
