@@ -194,5 +194,12 @@
         "password": "Taniya70",
         "expirydate": "15-06-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8e2b1721128207dd",
+        "username": "Fahim72",
+        "password": "Fahim72",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
 ]
