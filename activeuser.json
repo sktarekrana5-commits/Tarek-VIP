@@ -215,5 +215,12 @@
         "password": "Rabbi75",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ac5ec6b42925adfb",
+        "username": "2123",
+        "password": "2123",
+        "expirydate": "15-02-2026",
+        "Allowoffline": false
     }
 ]
