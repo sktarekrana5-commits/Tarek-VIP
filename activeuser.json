@@ -250,5 +250,12 @@
         "password": "Shakil95",
         "expirydate": "15-06-2023",
         "Allowoffline": false
+    },
+    {
+        "device_id": "115edd0d586e6054",
+        "username": "Apon100",
+        "password": "Apon100",
+        "expirydate": "30-02-2026",
+        "Allowoffline": false
     }
 ]
