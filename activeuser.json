@@ -278,5 +278,12 @@
         "password": "Alibhai99",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8f24c752993f9d31",
+        "username": "MarufBillah99",
+        "password": "MarufBillah99",
+        "expirydate": "14-03-2026",
+        "Allowoffline": false
     }
 ]
