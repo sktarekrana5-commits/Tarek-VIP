@@ -292,5 +292,12 @@
         "password": "Shajjatul70",
         "expirydate": "16-05-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "52456cc948cda1f9",
+        "username": "1234",
+        "password": "1234",
+        "expirydate": "27-02-2026",
+        "Allowoffline": false
     }
 ]
