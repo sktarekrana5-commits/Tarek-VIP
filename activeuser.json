@@ -320,5 +320,12 @@
         "password": "Mim770",
         "expirydate": "29-03-2024",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7d641bd2f386d4ec",
+        "username": "Sojib667",
+        "password": "Sojib667",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
 ]
