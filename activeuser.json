@@ -353,7 +353,7 @@
         "device_id": "3b32861289a9dc84",
         "username": "Rifat890",
         "password": "Rifat890",
-        "expirydate": "26-06-2026",
+        "expirydate": "26-06-2024",
         "Allowoffline": false
     },
     {
@@ -368,6 +368,13 @@
         "username": "Nafi990",
         "password": "Nafi990",
         "expirydate": "27-06-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "d90fb976e4b1bf91",
+        "username": "Rifat980",
+        "password": "Rifat980",
+        "expirydate": "28-06-2026",
         "Allowoffline": false
     }
 ]
