@@ -481,5 +481,12 @@
         "password": "Farhan220",
         "expirydate": "18-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3c5b51c7e338c5df",
+        "username": "Raihan780",
+        "password": "Raihan780",
+        "expirydate": "18-06-2026",
+        "Allowoffline": false
     }
 ]
