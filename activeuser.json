@@ -502,5 +502,12 @@
         "password": "Muktadul90",
         "expirydate": "29-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1cb08a28d717cc61",
+        "username": "Denafx90",
+        "password": "Denafx90",
+        "expirydate": "03-09-2026",
+        "Allowoffline": false
     }
 ]
