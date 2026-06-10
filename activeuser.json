@@ -523,5 +523,12 @@
         "password": "Shakil70",
         "expirydate": "04-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9227956e67377c7f",
+        "username": "Toufik559",
+        "password": "Toufik559",
+        "expirydate": "09-07-2026",
+        "Allowoffline": false
     }
 ]
