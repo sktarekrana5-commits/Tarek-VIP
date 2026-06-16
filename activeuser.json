@@ -544,5 +544,12 @@
         "password": "Nafi77",
         "expirydate": "15-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8aa8f2b78b5c1c4a",
+        "username": "Tarek22",
+        "password": "Tarek22",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
     }
 ]
