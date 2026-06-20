@@ -558,5 +558,12 @@
         "password": "Jisan90",
         "expirydate": "16-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "740d00791c63e3d6",
+        "username": "Sumon77",
+        "password": "Sumon77",
+        "expirydate": "19-09-2026",
+        "Allowoffline": false
     }
 ]
