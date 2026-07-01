@@ -593,5 +593,12 @@
         "password": "Mohosin60",
         "expirydate": "29-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "038cef1f397ea1d6",
+        "username": "Vivekarya55",
+        "password": "Vivekarya55",
+        "expirydate": "29-07-2026",
+        "Allowoffline": false
     }
 ]
