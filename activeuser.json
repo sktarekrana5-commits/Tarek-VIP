@@ -600,5 +600,12 @@
         "password": "Vivekarya55",
         "expirydate": "29-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "bee67b4db98fa172",
+        "username": "Jisan81",
+        "password": "Jisan81",
+        "expirydate": "29-07-2026",
+        "Allowoffline": false
     }
 ]
