@@ -635,5 +635,12 @@
         "password": "Jisan78",
         "expirydate": "04-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2fb76dca978f7dbd",
+        "username": "Habibullah76",
+        "password": "Habibullah76",
+        "expirydate": "08-09-2026",
+        "Allowoffline": false
     }
 ]
