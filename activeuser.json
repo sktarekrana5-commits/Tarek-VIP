@@ -663,5 +663,12 @@
         "password": "Apon45",
         "expirydate": "06-10-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ec282d6ec5089db5",
+        "username": "Sobuj22",
+        "password": "Sobuj22",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
     }
 ]
