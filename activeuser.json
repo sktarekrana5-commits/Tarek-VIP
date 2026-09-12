@@ -684,5 +684,12 @@
         "password": "Sabbir66",
         "expirydate": "11-10-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "651e7516ce7861b2",
+        "username": "Akash80",
+        "password": "Akash80",
+        "expirydate": "15-12-2027",
+        "Allowoffline": false
     }
 ]
