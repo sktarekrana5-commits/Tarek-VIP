@@ -691,5 +691,12 @@
         "password": "Akash80",
         "expirydate": "15-12-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f368992e87ce2c8c",
+        "username": "Shimul89",
+        "password": "Shimul89",
+        "expirydate": "12-10-2026",
+        "Allowoffline": false
     }
 ]
