@@ -705,5 +705,12 @@
         "password": "Rifat78",
         "expirydate": "15-10-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e9868dd806781aac",
+        "username": "Muktadul18",
+        "password": "Muktadul18",
+        "expirydate": "14-12-2026",
+        "Allowoffline": false
     }
 ]
