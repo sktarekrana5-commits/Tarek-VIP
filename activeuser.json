@@ -712,5 +712,12 @@
         "password": "Muktadul18",
         "expirydate": "14-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "efc67d066a53ef2e",
+        "username": "Tarek90",
+        "password": "Tarek90",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
     }
 ]
