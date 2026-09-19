@@ -719,5 +719,12 @@
         "password": "Tarek90",
         "expirydate": "15-06-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ddf945ff9ef73e43",
+        "username": "Satu80",
+        "password": "Satu80",
+        "expirydate": "18-10-2026",
+        "Allowoffline": false
     }
 ]
