@@ -726,5 +726,12 @@
         "password": "Satu80",
         "expirydate": "18-10-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7416ef69aaa3e8d0",
+        "username": "Zonayed94",
+        "password": "Zonayed94",
+        "expirydate": "18-10-2026",
+        "Allowoffline": false
     }
 ]
