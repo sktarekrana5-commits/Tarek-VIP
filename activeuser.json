@@ -761,5 +761,12 @@
         "password": "Rana99",
         "expirydate": "18-10-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dbc20c99a3be1433",
+        "username": "Sabbir105",
+        "password": "Sabbir105",
+        "expirydate": "21-10-2026",
+        "Allowoffline": false
     }
 ]
