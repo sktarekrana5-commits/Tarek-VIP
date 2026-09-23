@@ -782,5 +782,12 @@
         "password": "Aijit107",
         "expirydate": "21-10-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8b5fe17a32250876",
+        "username": "Rubel110",
+        "password": "Rubel110",
+        "expirydate": "22-10-2026",
+        "Allowoffline": false
     }
 ]
