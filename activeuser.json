@@ -789,5 +789,12 @@
         "password": "Rubel110",
         "expirydate": "22-10-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "49887277b87186fe",
+        "username": "Sojib116",
+        "password": "Sojib116",
+        "expirydate": "22-10-2026",
+        "Allowoffline": false
     }
 ]
