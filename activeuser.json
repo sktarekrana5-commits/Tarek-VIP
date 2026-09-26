@@ -803,5 +803,12 @@
         "password": "Rifat125",
         "expirydate": "23-10-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9d2386cc474520ec",
+        "username": "Riyad130",
+        "password": "Riyad130",
+        "expirydate": "25-10-2026",
+        "Allowoffline": false
     }
 ]
