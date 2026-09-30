@@ -810,5 +810,12 @@
         "password": "Riyad130",
         "expirydate": "25-10-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "25f8e8cde2e0b719",
+        "username": "Emon912809",
+        "password": "Emon912809",
+        "expirydate": "29-10-2026",
+        "Allowoffline": false
     }
 ]
