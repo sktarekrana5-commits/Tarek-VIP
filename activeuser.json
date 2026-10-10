@@ -857,13 +857,20 @@
         "device_id": "97eae6ad32b96be9",
         "username": "Tuli178",
         "password": "Tuli178",
-        "expirydate": "09-11-2026",
+        "expirydate": "09-11-2024",
         "Allowoffline": false
     },
     {
         "device_id": "63a3b07d57a310fb",
         "username": "Tuli180",
         "password": "Tuli180",
+        "expirydate": "08-12-2024",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "f254f4090da9e9fc",
+        "username": "Tuli183",
+        "password": "Tuli183",
         "expirydate": "08-12-2026",
         "Allowoffline": false
     }
