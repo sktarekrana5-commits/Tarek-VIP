@@ -873,5 +873,12 @@
         "password": "Tuli183",
         "expirydate": "08-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "82f3f51db3303e4f",
+        "username": "Mehedi798",
+        "password": "Mehedi798",
+        "expirydate": "21-11-2026",
+        "Allowoffline": false
     }
 ]
