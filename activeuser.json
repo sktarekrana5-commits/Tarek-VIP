@@ -908,5 +908,12 @@
         "password": "maruf@193720",
         "expirydate": "03-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7416ef69aaa3e8d0",
+        "username": "Ashik879",
+        "password": "Ashik879",
+        "expirydate": "08-12-2026",
+        "Allowoffline": false
     }
 ]
