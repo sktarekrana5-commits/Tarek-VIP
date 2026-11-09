@@ -915,5 +915,12 @@
         "password": "Ashik879",
         "expirydate": "08-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c7063e529dedfa5f",
+        "username": "Belal980",
+        "password": "Belal980",
+        "expirydate": "08-12-2026",
+        "Allowoffline": false
     }
 ]
