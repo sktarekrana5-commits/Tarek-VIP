@@ -943,5 +943,12 @@
         "password": "Piash509",
         "expirydate": "19-02-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f087f951690d93ed",
+        "username": "Hitlar675",
+        "password": "Hitlar675",
+        "expirydate": "23-11-2026",
+        "Allowoffline": false
     }
 ]
