@@ -950,5 +950,12 @@
         "password": "HitMan890",
         "expirydate": "23-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8cad6c70e2e828ff",
+        "username": "Niloy890",
+        "password": "Niloy890",
+        "expirydate": "27-12-2026",
+        "Allowoffline": false
     }
 ]
